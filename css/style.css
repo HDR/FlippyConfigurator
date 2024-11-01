@@ -1,0 +1,38 @@
+.codeblock {
+  margin-right: 50%;
+  margin-left: 5%;
+}
+
+.button {
+  display:block;
+  margin-left: 20%;
+  margin-right: 50%;
+  align-items: center;
+  margin-top: -25px
+}
+
+.main {
+  color: #FFFFFF;
+  margin-right: 5%;
+  margin-left: 50%;
+  align-items: center;
+  text-align: center;
+}
+
+.background {
+  background-color: #252525;
+}
+
+input[type='number']{
+  width: 78px;
+  -moz-appearance: textfield;
+}
+
+.pure-form input[type="color"],
+.pure-form input[type="number"],
+.pure-form input[type="text"],
+.pure-form input[type="password"],
+.pure-form select {
+  text-align: center;
+  margin: 0 auto;
+}
